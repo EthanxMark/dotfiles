@@ -5,8 +5,8 @@
 [hub]
         protocol = https
 [user]
-        name = Riley Guerin
-        email = guerin.riley@gmail.com 
+        name = Ethan Mark
+        email = ethan@fcflamingo.com 
 [credential]
 	    helper = osxkeychain
 [alias]
